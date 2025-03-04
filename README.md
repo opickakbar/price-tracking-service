@@ -25,8 +25,8 @@ This project implements a backend service to **record price changes** and calcul
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/opickakbar/price-tracking-service.git
+cd price-tracking-service
 ```
 
 ### **2️⃣ Build the Project**
